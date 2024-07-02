@@ -16,6 +16,11 @@ Presentation repo for my 'Season of AI' Intro to AI with .NET, OpenAI, and Seman
 **OpenAI**  
 🎟️ [OpenAI Tokenizer](https://platform.openai.com/tokenizer)  
 
+**NuGet Packages**  
+🎟️ [Microsoft.ML.Tokenizers](https://www.nuget.org/packages/Microsoft.ML.Tokenizers/)  
+🧩 [Microsoft.SemanticKernel](https://www.nuget.org/packages/Microsoft.SemanticKernel/)  
+🧮 [System.Numerics.Tensors](https://www.nuget.org/packages/System.Numerics.Tensors/)  
+
 ---
 For more info, find / contact me at:  
 [X / Twitter](https://x.com/mikeirvingweb) • [LinkedIn](https://www.linkedin.com/in/mikeirving) • [GitHub](https://github.com/mikeirvingweb) • [Sessionize](https://sessionize.com/mikeirving/) • [Stack Overflow](https://stackoverflow.com/users/482901/mike-irving) • [Website & Blog](https://www.mike-irving.co.uk/)
