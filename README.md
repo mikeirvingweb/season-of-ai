@@ -4,8 +4,10 @@ Presentation repo for my 'Season of AI' Intro to AI with .NET, OpenAI, and Seman
 ![Season of AI](season-of-ai.png)
 
 ## Forthcoming Talks
-📅 Jul 3rd 2024 - **Macc Tech** - [Website](https://www.meetup.com/macctech/events/301829704/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-03-Mike-Irving-Talking-Pride-with-AI.pptx)  
 📅 Jul 16th 2024 - **Dot Net North** - [Website](https://www.meetup.com/dotnetnorth/events/300783221/) - Slides (to do)  
+
+## Past Talks 
+📅 Jul 3rd 2024 - **Macc Tech** - [Website](https://www.meetup.com/macctech/events/301829704/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-03-Mike-Irving-Talking-Pride-with-AI.pptx)  
 
 ### Links from presentation
 
