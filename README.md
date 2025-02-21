@@ -14,7 +14,7 @@ Presentation repo for my 'Season of AI' Intro to AI with .NET, OpenAI, and Seman
 ### Links from presentation
 
 **Microsoft Semantic Kernel**  
-📄 [Microsoft Learn - Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/)  
+📄 [Microsoft Learn - Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/?WT.mc_id=MVP_307078)  
 🧑‍💻 [GitHub - Microsoft Semantic Kernel](https://github.com/microsoft/semantic-kernel)  
 
 **OpenAI**  
