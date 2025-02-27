@@ -4,7 +4,7 @@ Presentation repo for my 'Season of AI' Intro to AI with .NET, OpenAI, and Seman
 ![Season of AI](season-of-ai.png)
 
 ## Forthcoming Talks
-⏰ To be announced  
+📅 Mar 5th 2025 - **NexInspire** - [Website - link to follow] - [Slides - link to follow]  
 
 ## Past Talks 
 📅 Feb 20th 2025 - **Stoke on Tech** - [Website](https://www.meetup.com/stoke-on-tech/events/305496131/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2025-02-20-Mike-Irving-Intro-to-AI.pptx)  
