@@ -1,5 +1,7 @@
 # Season of AI
-Presentation repo for my 'Season of AI' Intro to AI with .NET, OpenAI, and Semantic Kernel talks
+Presentation repo for my Intro to AI with .NET, OpenAI, and Semantic Kernel talks.  
+
+Delivered as part of the 'Season of AI' Microsoft Community Pilot.  
 
 ![Season of AI](season-of-ai.png)
 
