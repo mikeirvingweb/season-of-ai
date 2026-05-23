@@ -15,7 +15,7 @@ Delivered as part of the 'Season of AI' Microsoft Community Pilot.
 
 📅 Jul 16th 2024 - **Dot Net North** - [Website](https://www.meetup.com/dotnetnorth/events/300783221/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-16-Mike-Irving-Intro-to-AI.pptx)  
 
-📅 Jul 3rd 2024 - **Macc Tech** - [Website](https://www.meetup.com/macctech/events/301829704/) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-03-Mike-Irving-Talking-Pride-with-AI.pptx)  
+📅 Jul 3rd 2024 - **Macc Tech** - [Website](https://www.macctech.co.uk/events/20240703) - [Slides](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/season-of-ai/2024-07-03-Mike-Irving-Talking-Pride-with-AI.pptx)  
 
 ### Links from presentation
 
